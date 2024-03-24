@@ -2,56 +2,56 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-24T12:20:26 IST" name="Suite" finished-at="2024-03-24T12:20:45 IST" duration-ms="19247">
+  <suite started-at="2024-03-24T15:20:00 IST" name="Suite" finished-at="2024-03-24T15:20:19 IST" duration-ms="18791">
     <groups>
     </groups>
-    <test started-at="2024-03-24T12:20:26 IST" name="Test" finished-at="2024-03-24T12:20:45 IST" duration-ms="19247">
+    <test started-at="2024-03-24T15:20:00 IST" name="Test" finished-at="2024-03-24T15:20:19 IST" duration-ms="18791">
       <class name="com.sauceDemo.testLayer.LoginpageTest">
-        <test-method is-config="true" signature="start()[pri:0, instance:com.sauceDemo.testLayer.LoginpageTest@49b0b76]" started-at="2024-03-24T12:20:26 IST" name="start" finished-at="2024-03-24T12:20:26 IST" duration-ms="115" status="PASS">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.sauceDemo.testLayer.LoginpageTest@49b0b76]" started-at="2024-03-24T15:20:00 IST" name="start" finished-at="2024-03-24T15:20:00 IST" duration-ms="92" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sauceDemo.testLayer.LoginpageTest@49b0b76]" started-at="2024-03-24T12:20:26 IST" name="setUp" finished-at="2024-03-24T12:20:33 IST" duration-ms="6610" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sauceDemo.testLayer.LoginpageTest@49b0b76]" started-at="2024-03-24T15:20:00 IST" name="setUp" finished-at="2024-03-24T15:20:07 IST" duration-ms="6370" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyLoginTest()[pri:0, instance:com.sauceDemo.testLayer.LoginpageTest@49b0b76]" started-at="2024-03-24T12:20:33 IST" name="verifyLoginTest" finished-at="2024-03-24T12:20:33 IST" duration-ms="536" status="PASS">
+        <test-method signature="verifyLoginTest()[pri:0, instance:com.sauceDemo.testLayer.LoginpageTest@49b0b76]" started-at="2024-03-24T15:20:07 IST" name="verifyLoginTest" finished-at="2024-03-24T15:20:07 IST" duration-ms="468" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauceDemo.testLayer.LoginpageTest@49b0b76]" started-at="2024-03-24T12:20:33 IST" name="tearDown" finished-at="2024-03-24T12:20:34 IST" duration-ms="559" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauceDemo.testLayer.LoginpageTest@49b0b76]" started-at="2024-03-24T15:20:07 IST" name="tearDown" finished-at="2024-03-24T15:20:08 IST" duration-ms="499" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="stop()[pri:0, instance:com.sauceDemo.testLayer.LoginpageTest@49b0b76]" started-at="2024-03-24T12:20:45 IST" name="stop" finished-at="2024-03-24T12:20:45 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.sauceDemo.testLayer.LoginpageTest@49b0b76]" started-at="2024-03-24T15:20:19 IST" name="stop" finished-at="2024-03-24T15:20:19 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stop -->
       </class> <!-- com.sauceDemo.testLayer.LoginpageTest -->
       <class name="com.sauceDemo.testLayer.FilterTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sauceDemo.testLayer.FilterTest@3d680b5a]" started-at="2024-03-24T12:20:34 IST" name="setUp" finished-at="2024-03-24T12:20:37 IST" duration-ms="2975" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sauceDemo.testLayer.FilterTest@3d680b5a]" started-at="2024-03-24T15:20:08 IST" name="setUp" finished-at="2024-03-24T15:20:11 IST" duration-ms="2918" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="filterTest()[pri:0, instance:com.sauceDemo.testLayer.FilterTest@3d680b5a]" started-at="2024-03-24T12:20:37 IST" name="filterTest" finished-at="2024-03-24T12:20:40 IST" duration-ms="3508" status="PASS">
+        <test-method signature="filterTest()[pri:0, instance:com.sauceDemo.testLayer.FilterTest@3d680b5a]" started-at="2024-03-24T15:20:11 IST" name="filterTest" finished-at="2024-03-24T15:20:14 IST" duration-ms="3518" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- filterTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauceDemo.testLayer.FilterTest@3d680b5a]" started-at="2024-03-24T12:20:40 IST" name="tearDown" finished-at="2024-03-24T12:20:41 IST" duration-ms="610" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauceDemo.testLayer.FilterTest@3d680b5a]" started-at="2024-03-24T15:20:14 IST" name="tearDown" finished-at="2024-03-24T15:20:15 IST" duration-ms="663" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.sauceDemo.testLayer.FilterTest -->
       <class name="com.sauceDemo.testLayer.BuyTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sauceDemo.testLayer.BuyTest@4b5d6a01]" started-at="2024-03-24T12:20:41 IST" name="setUp" finished-at="2024-03-24T12:20:44 IST" duration-ms="2672" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sauceDemo.testLayer.BuyTest@4b5d6a01]" started-at="2024-03-24T15:20:15 IST" name="setUp" finished-at="2024-03-24T15:20:17 IST" duration-ms="2544" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="buyProductTest()[pri:0, instance:com.sauceDemo.testLayer.BuyTest@4b5d6a01]" started-at="2024-03-24T12:20:44 IST" name="buyProductTest" finished-at="2024-03-24T12:20:45 IST" duration-ms="1084" status="PASS">
+        <test-method signature="buyProductTest()[pri:0, instance:com.sauceDemo.testLayer.BuyTest@4b5d6a01]" started-at="2024-03-24T15:20:17 IST" name="buyProductTest" finished-at="2024-03-24T15:20:18 IST" duration-ms="1113" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buyProductTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauceDemo.testLayer.BuyTest@4b5d6a01]" started-at="2024-03-24T12:20:45 IST" name="tearDown" finished-at="2024-03-24T12:20:45 IST" duration-ms="522" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauceDemo.testLayer.BuyTest@4b5d6a01]" started-at="2024-03-24T15:20:18 IST" name="tearDown" finished-at="2024-03-24T15:20:19 IST" duration-ms="534" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
