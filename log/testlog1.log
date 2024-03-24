@@ -1,0 +1,165 @@
+2024-03-17 15:00:33,243 [main] INFO ** SD Automation ** - Framework execution started ------------------- 
+2024-03-17 15:00:38,582 [main] INFO ** SD Automation ** - browser lauched
+2024-03-17 15:00:39,227 [main] INFO ** SD Automation ** - logged in app
+2024-03-17 15:00:39,858 [main] INFO ** SD Automation ** - browser closed
+2024-03-17 15:00:43,325 [main] INFO ** SD Automation ** - browser lauched
+2024-03-17 15:00:47,061 [main] INFO ** SD Automation ** - selected filter
+2024-03-17 15:00:47,466 [main] INFO ** SD Automation ** - browser closed
+2024-03-17 15:00:50,281 [main] INFO ** SD Automation ** - browser lauched
+2024-03-17 15:00:50,728 [main] INFO ** SD Automation ** - Object creation
+2024-03-17 15:00:50,963 [main] INFO ** SD Automation ** - product added to cart
+2024-03-17 15:00:51,621 [main] INFO ** SD Automation ** - product placed
+2024-03-17 15:00:52,122 [main] INFO ** SD Automation ** - browser closed
+2024-03-17 15:00:52,124 [main] INFO ** SD Automation ** - Framework execution stopped ------------------- 
+2024-03-17 15:02:02,137 [main] INFO ** SD Automation ** - Framework execution started ------------------- 
+2024-03-17 15:02:05,589 [main] INFO ** SD Automation ** - browser lauched
+2024-03-17 15:02:05,597 [main] INFO ** SD Automation ** - Test Execution Started verifyLoginTest
+2024-03-17 15:02:05,990 [main] INFO ** SD Automation ** - logged in app
+2024-03-17 15:02:06,019 [main] INFO ** SD Automation ** - Test Execution Completed verifyLoginTest
+2024-03-17 15:02:06,416 [main] INFO ** SD Automation ** - browser closed
+2024-03-17 15:02:08,742 [main] INFO ** SD Automation ** - browser lauched
+2024-03-17 15:02:08,744 [main] INFO ** SD Automation ** - Test Execution Started filterTest
+2024-03-17 15:02:12,396 [main] INFO ** SD Automation ** - selected filter
+2024-03-17 15:02:12,398 [main] INFO ** SD Automation ** - Test Execution Completed filterTest
+2024-03-17 15:02:13,036 [main] INFO ** SD Automation ** - browser closed
+2024-03-17 15:02:16,136 [main] INFO ** SD Automation ** - browser lauched
+2024-03-17 15:02:16,139 [main] INFO ** SD Automation ** - Test Execution Started buyProductTest
+2024-03-17 15:02:16,663 [main] INFO ** SD Automation ** - Object creation
+2024-03-17 15:02:17,047 [main] INFO ** SD Automation ** - product added to cart
+2024-03-17 15:02:17,615 [main] INFO ** SD Automation ** - product placed
+2024-03-17 15:02:17,665 [main] INFO ** SD Automation ** - Test Execution Completed buyProductTest
+2024-03-17 15:02:18,207 [main] INFO ** SD Automation ** - browser closed
+2024-03-17 15:02:18,209 [main] INFO ** SD Automation ** - Framework execution stopped ------------------- 
+2024-03-17 15:03:25,370 [main] INFO ** SD Automation ** - Framework execution started ------------------- 
+2024-03-17 15:03:28,223 [main] INFO ** SD Automation ** - browser lauched
+2024-03-17 15:03:28,226 [main] INFO ** SD Automation ** - Test Execution Started verifyLoginTest
+2024-03-17 15:03:28,568 [main] INFO ** SD Automation ** - logged in app
+2024-03-17 15:03:28,597 [main] INFO ** SD Automation ** - Test Execution Completed verifyLoginTest
+2024-03-17 15:03:28,971 [main] INFO ** SD Automation ** - browser closed
+2024-03-17 15:03:31,280 [main] INFO ** SD Automation ** - browser lauched
+2024-03-17 15:03:31,282 [main] INFO ** SD Automation ** - Test Execution Started filterTest
+2024-03-17 15:03:34,822 [main] INFO ** SD Automation ** - selected filter
+2024-03-17 15:03:34,822 [main] INFO ** SD Automation ** - Test Execution Completed filterTest
+2024-03-17 15:03:35,121 [main] INFO ** SD Automation ** - browser closed
+2024-03-17 15:03:37,398 [main] INFO ** SD Automation ** - browser lauched
+2024-03-17 15:03:37,400 [main] INFO ** SD Automation ** - Test Execution Started buyProductTest
+2024-03-17 15:03:37,836 [main] INFO ** SD Automation ** - Object creation
+2024-03-17 15:03:38,022 [main] INFO ** SD Automation ** - product added to cart
+2024-03-17 15:03:38,485 [main] INFO ** SD Automation ** - product placed
+2024-03-17 15:03:38,527 [main] INFO ** SD Automation ** - Test Execution Completed buyProductTest
+2024-03-17 15:03:38,968 [main] INFO ** SD Automation ** - browser closed
+2024-03-17 15:03:38,971 [main] INFO ** SD Automation ** - Framework execution stopped ------------------- 
+2024-03-17 15:14:35,182 [main] INFO ** SD Automation ** - Framework execution started ------------------- 
+2024-03-17 15:14:39,613 [main] INFO ** SD Automation ** - browser lauched
+2024-03-17 15:14:39,623 [main] INFO ** SD Automation ** - Test Execution Started verifyLoginTest
+2024-03-17 15:14:40,040 [main] INFO ** SD Automation ** - logged in app
+2024-03-17 15:14:40,060 [main] INFO ** SD Automation ** - Test Execution Completed verifyLoginTest
+2024-03-17 15:14:40,394 [main] INFO ** SD Automation ** - browser closed
+2024-03-17 15:14:44,420 [main] INFO ** SD Automation ** - browser lauched
+2024-03-17 15:14:44,420 [main] INFO ** SD Automation ** - Test Execution Started filterTest
+2024-03-17 15:14:47,906 [main] INFO ** SD Automation ** - selected filter
+2024-03-17 15:14:47,906 [main] INFO ** SD Automation ** - Test Execution Completed filterTest
+2024-03-17 15:14:48,164 [main] INFO ** SD Automation ** - browser closed
+2024-03-17 15:14:50,694 [main] INFO ** SD Automation ** - browser lauched
+2024-03-17 15:14:50,694 [main] INFO ** SD Automation ** - Test Execution Started buyProductTest
+2024-03-17 15:14:51,144 [main] INFO ** SD Automation ** - Object creation
+2024-03-17 15:14:51,387 [main] INFO ** SD Automation ** - product added to cart
+2024-03-17 15:14:51,867 [main] INFO ** SD Automation ** - product placed
+2024-03-17 15:14:51,916 [main] INFO ** SD Automation ** - Test Execution Completed buyProductTest
+2024-03-17 15:14:52,364 [main] INFO ** SD Automation ** - browser closed
+2024-03-17 15:14:52,364 [main] INFO ** SD Automation ** - Framework execution stopped ------------------- 
+2024-03-18 12:40:05,679 [main] INFO ** SD Automation ** - Framework execution started ------------------- 
+2024-03-18 12:40:12,362 [main] INFO ** SD Automation ** - browser lauched
+2024-03-18 12:40:12,375 [main] INFO ** SD Automation ** - Test Execution Started verifyLoginTest
+2024-03-18 12:40:12,993 [main] INFO ** SD Automation ** - logged in app
+2024-03-18 12:40:13,027 [main] INFO ** SD Automation ** - Test Execution Completed verifyLoginTest
+2024-03-18 12:40:13,571 [main] INFO ** SD Automation ** - browser closed
+2024-03-18 12:40:16,644 [main] INFO ** SD Automation ** - browser lauched
+2024-03-18 12:40:16,646 [main] INFO ** SD Automation ** - Test Execution Started filterTest
+2024-03-18 12:40:20,280 [main] INFO ** SD Automation ** - selected filter
+2024-03-18 12:40:20,282 [main] INFO ** SD Automation ** - Test Execution Completed filterTest
+2024-03-18 12:40:20,635 [main] INFO ** SD Automation ** - browser closed
+2024-03-18 12:40:23,311 [main] INFO ** SD Automation ** - browser lauched
+2024-03-18 12:40:23,312 [main] INFO ** SD Automation ** - Test Execution Started buyProductTest
+2024-03-18 12:40:23,773 [main] INFO ** SD Automation ** - Object creation
+2024-03-18 12:40:24,028 [main] INFO ** SD Automation ** - product added to cart
+2024-03-18 12:40:24,588 [main] INFO ** SD Automation ** - product placed
+2024-03-18 12:40:24,630 [main] INFO ** SD Automation ** - Test Execution Completed buyProductTest
+2024-03-18 12:40:25,034 [main] INFO ** SD Automation ** - browser closed
+2024-03-18 12:40:25,036 [main] INFO ** SD Automation ** - Framework execution stopped ------------------- 
+2024-03-22 13:49:54,230 [main] INFO ** SD Automation ** - Framework execution started ------------------- 
+2024-03-22 13:50:03,050 [main] INFO ** SD Automation ** - browser lauched
+2024-03-22 13:50:03,053 [main] INFO ** SD Automation ** - Test Execution Started verifyLoginTest
+2024-03-22 13:50:03,343 [main] INFO ** SD Automation ** - logged in app
+2024-03-22 13:50:03,365 [main] INFO ** SD Automation ** - Test Execution Completed verifyLoginTest
+2024-03-22 13:50:03,587 [main] INFO ** SD Automation ** - browser closed
+2024-03-22 13:50:05,891 [main] INFO ** SD Automation ** - browser lauched
+2024-03-22 13:50:05,891 [main] INFO ** SD Automation ** - Test Execution Started filterTest
+2024-03-22 13:50:09,358 [main] INFO ** SD Automation ** - selected filter
+2024-03-22 13:50:09,358 [main] INFO ** SD Automation ** - Test Execution Completed filterTest
+2024-03-22 13:50:09,581 [main] INFO ** SD Automation ** - browser closed
+2024-03-22 13:50:11,803 [main] INFO ** SD Automation ** - browser lauched
+2024-03-22 13:50:11,803 [main] INFO ** SD Automation ** - Test Execution Started buyProductTest
+2024-03-22 13:50:12,047 [main] INFO ** SD Automation ** - Object creation
+2024-03-22 13:50:12,235 [main] INFO ** SD Automation ** - product added to cart
+2024-03-22 13:50:12,538 [main] INFO ** SD Automation ** - product placed
+2024-03-22 13:50:12,579 [main] INFO ** SD Automation ** - Test Execution Completed buyProductTest
+2024-03-22 13:50:12,839 [main] INFO ** SD Automation ** - browser closed
+2024-03-22 13:50:12,839 [main] INFO ** SD Automation ** - Framework execution stopped ------------------- 
+2024-03-23 14:50:31,763 [main] INFO ** SD Automation ** - Framework execution started ------------------- 
+2024-03-23 14:50:51,508 [main] INFO ** SD Automation ** - browser lauched
+2024-03-23 14:50:51,510 [main] INFO ** SD Automation ** - Test Execution Started verifyLoginTest
+2024-03-23 14:50:51,930 [main] INFO ** SD Automation ** - logged in app
+2024-03-23 14:50:51,949 [main] INFO ** SD Automation ** - Test Execution Completed verifyLoginTest
+2024-03-23 14:50:52,488 [main] INFO ** SD Automation ** - browser closed
+2024-03-23 14:50:55,138 [main] INFO ** SD Automation ** - browser lauched
+2024-03-23 14:50:55,138 [main] INFO ** SD Automation ** - Test Execution Started filterTest
+2024-03-23 14:50:58,712 [main] INFO ** SD Automation ** - selected filter
+2024-03-23 14:50:58,716 [main] INFO ** SD Automation ** - Test Execution Completed filterTest
+2024-03-23 14:50:59,319 [main] INFO ** SD Automation ** - browser closed
+2024-03-23 14:51:01,691 [main] INFO ** SD Automation ** - browser lauched
+2024-03-23 14:51:01,692 [main] INFO ** SD Automation ** - Test Execution Started buyProductTest
+2024-03-23 14:51:02,009 [main] INFO ** SD Automation ** - Object creation
+2024-03-23 14:51:02,245 [main] INFO ** SD Automation ** - product added to cart
+2024-03-23 14:51:02,638 [main] INFO ** SD Automation ** - product placed
+2024-03-23 14:51:02,670 [main] INFO ** SD Automation ** - Test Execution Completed buyProductTest
+2024-03-23 14:51:03,015 [main] INFO ** SD Automation ** - browser closed
+2024-03-23 14:51:03,015 [main] INFO ** SD Automation ** - Framework execution stopped ------------------- 
+2024-03-24 11:49:25,694 [main] INFO ** SD Automation ** - Framework execution started ------------------- 
+2024-03-24 11:49:33,904 [main] INFO ** SD Automation ** - browser lauched
+2024-03-24 11:49:33,907 [main] INFO ** SD Automation ** - Test Execution Started verifyLoginTest
+2024-03-24 11:49:34,325 [main] INFO ** SD Automation ** - logged in app
+2024-03-24 11:49:34,341 [main] INFO ** SD Automation ** - Test Execution Completed verifyLoginTest
+2024-03-24 11:49:34,944 [main] INFO ** SD Automation ** - browser closed
+2024-03-24 11:49:37,660 [main] INFO ** SD Automation ** - browser lauched
+2024-03-24 11:49:37,662 [main] INFO ** SD Automation ** - Test Execution Started filterTest
+2024-03-24 11:49:41,265 [main] INFO ** SD Automation ** - selected filter
+2024-03-24 11:49:41,265 [main] INFO ** SD Automation ** - Test Execution Completed filterTest
+2024-03-24 11:49:41,865 [main] INFO ** SD Automation ** - browser closed
+2024-03-24 11:49:44,434 [main] INFO ** SD Automation ** - browser lauched
+2024-03-24 11:49:44,441 [main] INFO ** SD Automation ** - Test Execution Started buyProductTest
+2024-03-24 11:49:44,776 [main] INFO ** SD Automation ** - Object creation
+2024-03-24 11:49:44,963 [main] INFO ** SD Automation ** - product added to cart
+2024-03-24 11:49:45,554 [main] INFO ** SD Automation ** - product placed
+2024-03-24 11:49:45,591 [main] INFO ** SD Automation ** - Test Execution Completed buyProductTest
+2024-03-24 11:49:46,126 [main] INFO ** SD Automation ** - browser closed
+2024-03-24 11:49:46,126 [main] INFO ** SD Automation ** - Framework execution stopped ------------------- 
+2024-03-24 12:20:26,732 [main] INFO ** SD Automation ** - Framework execution started ------------------- 
+2024-03-24 12:20:33,378 [main] INFO ** SD Automation ** - browser lauched
+2024-03-24 12:20:33,383 [main] INFO ** SD Automation ** - Test Execution Started verifyLoginTest
+2024-03-24 12:20:33,885 [main] INFO ** SD Automation ** - logged in app
+2024-03-24 12:20:33,920 [main] INFO ** SD Automation ** - Test Execution Completed verifyLoginTest
+2024-03-24 12:20:34,479 [main] INFO ** SD Automation ** - browser closed
+2024-03-24 12:20:37,459 [main] INFO ** SD Automation ** - browser lauched
+2024-03-24 12:20:37,461 [main] INFO ** SD Automation ** - Test Execution Started filterTest
+2024-03-24 12:20:40,969 [main] INFO ** SD Automation ** - selected filter
+2024-03-24 12:20:40,969 [main] INFO ** SD Automation ** - Test Execution Completed filterTest
+2024-03-24 12:20:41,580 [main] INFO ** SD Automation ** - browser closed
+2024-03-24 12:20:44,254 [main] INFO ** SD Automation ** - browser lauched
+2024-03-24 12:20:44,256 [main] INFO ** SD Automation ** - Test Execution Started buyProductTest
+2024-03-24 12:20:44,627 [main] INFO ** SD Automation ** - Object creation
+2024-03-24 12:20:44,802 [main] INFO ** SD Automation ** - product added to cart
+2024-03-24 12:20:45,296 [main] INFO ** SD Automation ** - product placed
+2024-03-24 12:20:45,339 [main] INFO ** SD Automation ** - Test Execution Completed buyProductTest
+2024-03-24 12:20:45,862 [main] INFO ** SD Automation ** - browser closed
+2024-03-24 12:20:45,864 [main] INFO ** SD Automation ** - Framework execution stopped ------------------- 
